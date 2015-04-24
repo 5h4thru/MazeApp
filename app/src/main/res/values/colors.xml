@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_color">#E0E0E0</color>
+    <color name="text_color">#131112</color>
+    <color name="border_color">#000000</color>
+    <color name="wall_color">#03A9F4</color>
+    <color name="ball_color">#F44336</color>
+    <color name="button_bg_color">#03A9F4</color>
+    <color name="button_bg_color_pressed">#F44336</color>
+
+</resources>
